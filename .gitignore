@@ -36,5 +36,7 @@ codegen/
 .buildtool/
 
 infrared-rodent-detection/models/
+infrared-rodent-detection/runs/
 infrared-rodent-detection/data/
-infrared-rodent-detection/data/
+infrared-rodent-detection/Spinnaker/
+infrared-rodent-detection/demo/

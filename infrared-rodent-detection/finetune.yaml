@@ -1,0 +1,15 @@
+path: ../data
+
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 1
+names: ['Rodents']
+
+roboflow:
+  workspace: panav2
+  project: rodent-thermal
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/panav2/rodent-thermal/dataset/2

@@ -11,3 +11,4 @@ This repository contains:
     - **realtime_yolo.py** contains the script for running YOLO realtime inference on images streamed from an IR thermal camera.
     - **spin-yolo.yml** is the environment YAML file which is required for running YOLO inference and connecting to the IR camera. The environment requires the Spinnaker SDK to be installed on the system, as well as the PySpin package in Python.
     - The trained model and dataset (available on the Zenodo platform) should be placed under this folder.
+    - **finetune.yaml** is the YOLO finetuning YAML setup file.
