@@ -1,5 +1,32 @@
-# ICAERUS-RODENT
-Repo for Rodent Obstruction through Drone-Enabled Non-invasive Technology project.
+<div align="center">
+  <p>
+    <a href="https://icaerus.eu" target="_blank">
+      <img width="50%" src="https://icaerus.eu/wp-content/uploads/2022/09/ICAERUS-logo-white.svg"></a>
+    <h3 align="center">🐁🐭ICAERUS-UC3-RODENT🐭🐁</h3>
+    
+   <p align="center">
+    <!-- Short description of the content/subject matter in the repository -->
+    <br/>
+    <br/>
+    <a href="https://github.com/icaerus-eu/ICAERUS-UC3-RODENT/wiki"><strong>Explore the wiki »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/icaerus-eu/ICAERUS-UC3-RODENT/issues">Report Bug</a>
+    -
+    <a href="https://github.com/icaerus-eu/ICAERUS-UC3-RODENT/issues">Request Feature</a>
+  </p>
+</p>
+</div>
+
+![Downloads](https://img.shields.io/github/downloads/icaerus-eu/ICAERUS-UC3-RODENT/total) ![Contributors](https://img.shields.io/github/contributors/icaerus-eu/ICAERUS-UC3-RODENT?color=dark-green) ![Forks](https://img.shields.io/github/forks/icaerus-eu/ICAERUS-UC3-RODENTe?style=social) ![Stargazers](https://img.shields.io/github/stars/icaerus-eu/ICAERUS-UC3-RODENT?style=social) ![Issues](https://img.shields.io/github/issues/icaerus-eu/ICAERUS-UC3-RODENT) ![License](https://img.shields.io/github/license/icaerus-eu/ICAERUS-UC3-RODENT) 
+
+## Table Of Contents
+- [Summary](#summary)
+- [Structure](#structure)
+- [Acknowledgments](#acknowledgments)
+
+## Summary
+The Open Call Trial for the RODENT (Rodent Obstruction through Drone-Enabled Non-invasive Technology) project is part of the PULL 2 Open Call for Farming, Forestry, and Rural Challenges (FFRC). It aims to validate the effectiveness of drone-mounted ultrasound technology in repelling rodents and preventing crop losses in a sustainable, non-invasive manner. By emitting ultrasound waves within the decided range, drones create an acoustic barrier that deters rodents without harming ecosystems. 
 
 ## Structure
 This repository contains:
@@ -52,3 +79,9 @@ This repository contains:
             •	Battery_Used [%]: total battery percentage consumed during the flight.
             •	Duration [s]: total mission time in seconds.
             •	Avg_Drain_Rate [%/s]: precomputed average consumption rate.
+
+## Acknowledgments
+This project is funded by the European Union, grant ID 101060643.
+
+<img src="https://rea.ec.europa.eu/sites/default/files/styles/oe_theme_medium_no_crop/public/2021-04/EN-Funded%20by%20the%20EU-POS.jpg" alt="https://cordis.europa.eu/project/id/101060643" width="200"/>
+
