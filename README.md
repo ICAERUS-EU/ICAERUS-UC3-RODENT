@@ -14,7 +14,7 @@ This repository contains:
     - **gpu-yolo.yml** is the environment YAML file which was used for finetuning the YOLOv11n model on GPU.
     - **realtime_yolo.py** contains the script for running YOLO realtime inference on images streamed from an IR thermal camera.
     - **spin-yolo.yml** is the environment YAML file which is required for running YOLO inference and connecting to the IR camera. The environment requires the Spinnaker SDK to be installed on the system, as well as the PySpin package in Python.
-    - The trained model (available on the Zenodo platform) should be placed under `models/` in this folder.
+    - **models/yolov11n-finetuned-best.pt** contains the PyTorch formatted trained model.
     - **finetune.yaml** is the YOLO finetuning YAML setup file.
 
 - drone-path-optimization/
