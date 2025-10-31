@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Sound Pressure Level Testing",
+        "creator": "Marija Ratković",
+        "date": "31/10/2025",
+        "icon": "https://github.com/ICAERUS-EU/OCT-RODENT/blob/main/testing_SPL/merenje.png",
+        "url": "https://github.com/ICAERUS-EU/ICAERUS-UC3-RODENT/tree/main/testing_SPL/",
+        "icaerus_applications": [
+            "livestock-monitoring"
+        ],
+        "uses_cases": [
+            3
+        ],
+        "extra": {
+            "key1": "",
+            "key2": ""
+        },
+        "filters": {
+            "content": [
+              "SPL",
+              "Sound Pressure Level"
+            ],
+            "data-type": [
+              "Matrices"
+            ],
+            "subject": [
+              "Rodents",
+              "Rats",
+              "Mice", 
+              "Chinchilla"
+            ],
+            "location": [
+                "Serbia"
+            ]
+        }
+    },
+    {
+        "title": "Genetic Algorithm Drone Path Optimization",
+        "creator": "Vasilije Kovačević",
+        "date": "31/10/2025",
+        "icon": "https://github.com/ICAERUS-EU/OCT-RODENT/blob/main/drone-path-optimization/best_path_20x10.jpg",
+        "url": "https://github.com/ICAERUS-EU/ICAERUS-UC3-RODENT/tree/main/drone-path-optimization/",
+        "icaerus_applications": [
+            "livestock-monitoring"
+        ],
+        "uses_cases": [
+            3
+        ],
+        "extra": {
+            "key1": "",
+            "key2": ""
+        },
+        "filters": {
+            "content": [
+                "Genetic algorithms",
+                "Path optimization",
+                "Drone navigation",
+                "Search algorithm"
+            ],
+            "data-type": [
+                "Matrices"
+            ],
+            "subject": [
+                "Rodents",
+                "Small animals"
+            ],
+            "location": [
+                "Serbia"
+            ],
+            "model_input": [
+                "Grid coordinates",
+                "Rodent positions"
+            ],
+            "model_output": [
+                "Optimal trajectory"
+            ]
+        }
+    },
+    {
+        "title":" YOLO Infrared Rodent Detection",
+        "creator": "Matija Marijan",
+        "date": "31/10/2025",
+        "icon":"https://github.com/ICAERUS-EU/OCT-RODENT/blob/main/infrared-rodent-detection/thermal_model.jpg",
+        "url":"https://github.com/ICAERUS-EU/ICAERUS-UC3-RODENT/tree/main/infrared-rodent-detection/models",
+        "icaerus_applications": [
+            "livestock-monitoring"
+        ],
+        "uses_cases":[
+            3
+        ],
+        "extra":{
+            "key1":"",
+            "key2":""
+        },
+        "filters":{
+            "content": [
+                "Machine learning",
+                "Deep learning",
+                "Computer vision",
+                "Detection",
+                "Segmentation"
+                ],  
+            "data-type": [
+                "RGB images",
+                "RGB videos",
+                "Thermal images",
+                "IR images"
+            ], 
+            "subject": [
+                "Crop fields",
+                "Rodents",
+                "Small animals"
+            ],
+            "location": [
+                "Serbia" 
+            ],
+            "model_input": [
+                "Infrared"
+            ],
+            "model_output": [
+                "Bounding box",
+                "Mask",
+                "Class",
+                "Confidence score"
+            ]
+        }
+    }    
+]
