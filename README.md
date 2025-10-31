@@ -2,7 +2,7 @@
   <p>
     <a href="https://icaerus.eu" target="_blank">
       <img width="50%" src="https://icaerus.eu/wp-content/uploads/2022/09/ICAERUS-logo-white.svg"></a>
-    <h3 align="center">🐁🐭ICAERUS-UC3-RODENT🐭🐁</h3>
+    <h3 align="center">🐁🐭OCT-RODENT🐭🐁</h3>
     
    <p align="center">
     <!-- Short description of the content/subject matter in the repository -->
